@@ -167,7 +167,7 @@ void main() {
 		}
 	} while (choice!=0);
 
-	cout << "ushgtjnhikyhntikly" << endl;
+	cout << "Hello" << endl;
 }
 
 #pragma endregion
